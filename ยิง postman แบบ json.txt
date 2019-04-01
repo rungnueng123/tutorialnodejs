@@ -1,0 +1,2 @@
+1. {"username": "admin","password": "1234"}
+2. เลือก dropdown เป็น json
